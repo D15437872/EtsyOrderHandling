@@ -1,5 +1,5 @@
 # EtsyOrderHandling
-Automated processing of a sellers Etsy orders. It includes a bulk export and a syncronisation of the internal ID via REST.
+Automated processing of a sellers Etsy orders on a local machine. It includes a bulk export and a syncronisation of the internal uuid via REST.
 
 **It contains the following functions:**
 - Opens a Windows window to choose the date
