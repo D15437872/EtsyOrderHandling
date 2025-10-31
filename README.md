@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/in%20Development-red)
+![Static Badge](https://img.shields.io/badge/In%20Development-red)
 # EtsyOrderHandling
 Automated processing of a sellers Etsy orders on a local machine. It includes a bulk export and a syncronisation of the internal uuid via REST.
 
