@@ -10,3 +10,8 @@ Automated processing of a sellers Etsy orders on a local machine. It includes a 
 - Windows 10
 - Powershell 5.1
 - Approved ETSY API App
+
+**Implementation:**
+- Add your approved ETSY credentials to the txt-file
+- Link the path of the txt-file to the main-code
+- Create an exe-file from the ps1-file
