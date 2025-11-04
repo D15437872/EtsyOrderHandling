@@ -7,10 +7,10 @@ Automated processing of a sellers Etsy orders on a local machine. It includes a 
 - Calls the ETSY REST API to export all purchase order data of the choosen day including the shipment address
 - Calls the ETSY REST API to save the internal uuid into the internal comment of each order
 
-**Minimum requirements:**
-- Windows 10
+**Tested requirements:**
+- Windows 10 / 11
 - Powershell 5.1
-- Node.js 24.11.0
+- Node.js 24.11.0 & npm 11.6.1
 - Approved ETSY API App
 
 **Implementation:**
