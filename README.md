@@ -10,6 +10,7 @@ Automated processing of a sellers Etsy orders on a local machine. It includes a 
 **Minimum requirements:**
 - Windows 10
 - Powershell 5.1
+- Node.js 24.11.0
 - Approved ETSY API App
 
 **Implementation:**
